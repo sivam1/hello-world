@@ -1,4 +1,4 @@
-#Optional - The name of the workflow as it will appear in the "Actions" tab of the GitHub repository. 
+#Optional -The name of the workflow as it will appear in the "Actions" tab of the GitHub repository. 
 name: mulesoft-pipeline
 
 #Optional - The name for workflow runs generated from the workflow.
